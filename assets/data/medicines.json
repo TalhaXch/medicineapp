@@ -1,0 +1,16 @@
+{
+  "medicines": {
+    "1": {
+      "name": "Aspirin",
+      "medicineId": "1"
+    },
+    "2": {
+      "name": "Paracetamol",
+      "medicineId": "2"
+    },
+    "3": {
+      "name": "Ibuprofen",
+      "medicineId": "3"
+    }
+  }
+}
